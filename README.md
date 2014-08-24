@@ -2,6 +2,7 @@ CleanData
 =========
 
 Getting and Cleaning Data Project - Johns Hopkins University, Coursera Class
+
 =========
 
 The purpose of this project is to demonstrate the ability to collect, work with,
@@ -13,12 +14,14 @@ later analysis. You will find these three files in the repository:
 or work that you performed to clean up the data called CodeBook.md
 4) this README.md file in the repo to explain how all of the scripts work and 
 how they are connected.
+
 ==========
 
 Here are the data used for the project: 
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20
 Dataset.zip 
+
 ==========
 
 The R script called "run_analysis.R"" will perform the following:
@@ -29,10 +32,12 @@ measurement.
 4) Appropriately labels the data set with descriptive variable names. 
 5) Creates a second, independent tidy data set with the average of each variable
 for each activity and each subject. 
+
 ==========
 
 The script "CodeBook.md"" describes the variables, the data, and any 
 transformations or work that was performed to clean up the data
+
 ==========
 
 
