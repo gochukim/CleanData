@@ -19,8 +19,7 @@ how they are connected.
 
 Here are the data used for the project: 
 
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20
-Dataset.zip 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ==========
 
