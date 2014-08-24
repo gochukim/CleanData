@@ -49,7 +49,7 @@ for (s in 1:length_subject) {
                 row = row+1
         }
 }
-write.table(new_data, "data_set_with_averages.txt")
+write.table(new_data, "data_set_with_averages.txt", row.name=FALSE)
 new_average <- read.table("data_set_with_averages.txt")
 
 # Dispalys the Final Variables
